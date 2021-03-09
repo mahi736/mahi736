@@ -6,14 +6,11 @@
 </div>
 
 <div align="center">
-
     <p> You have finally discovered my Github profile. <br>
     Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
     Ask me anything <a href="https://github.com/mahi736/mahi736/issues/new"><b>here</b></a><br>
     or <b>email</b> me at <b>mdmahin5531@gmail.com</b>
-    
     <i>Happy Coding!</i> 😊</p>
-    
 </div>
 
 <div align="center">
