@@ -19,7 +19,7 @@
 </div>
 <div align="center">
     <h1>My skills</h1>
-    <img src="myskills.png" alt="Mahi's skills">
+    <img src="skills2.png" alt="Mahi's skills">
 </div>
 
 
